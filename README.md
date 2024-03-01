@@ -10,7 +10,7 @@ The project directory contains the following files and folders:
 - `Report.pdf` : PDF file containing a brief summarized report about what has been done.
 - `AES_Pipeline_Functions.py`: Python file with function definitions used in the notebook.
 - `requirements_AES.txt`: Text file specifying the Python package requirements for the project.
-- `java_installer.exe`: Executable installer for Java.
+- `JavaSetup8u391.exe`: Executable installer for Java.
 - `essay_descriptions`: Folder containing Word documents with essay descriptions for each essay set and scoring guidelines.
 - `dataset_summary.xlsx`: Excel file providing an overview of the dataset.
 - `project_description.pdf`: PDF document describing the project in detail.
