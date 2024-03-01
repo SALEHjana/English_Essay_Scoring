@@ -7,6 +7,7 @@ This project aims to develop an automatic essay scoring system using machine lea
 The project directory contains the following files and folders:
 
 - `AES_Pipeline_code.ipynb`: Jupyter Notebook containing the project code.
+- `Report.pdf` : PDF file containing a brief summarized report about what has been done.
 - `AES_Pipeline_Functions.py`: Python file with function definitions used in the notebook.
 - `requirements_AES.txt`: Text file specifying the Python package requirements for the project.
 - `java_installer.exe`: Executable installer for Java.
