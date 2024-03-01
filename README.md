@@ -37,7 +37,7 @@ pip install -r requirements_AES.txt
 Java is required for certain components of the project. If you haven't already, download and install Java from the official website: [https://www.java.com/download/ie_manual.jsp].
 
 <font color='red'><h3>| Attention:</h3></font>
-- Don't forget to add the path to your Java installation to the system PATH environment variable.
+- Don't forget to **add the path to your Java installation** to the system **PATH** environment variable.
 - .exe Installer
 Additionally, an executable installer is provided for Java. Download and run the installer to install Java on your system.
 
