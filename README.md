@@ -31,7 +31,7 @@ You can install these packages using the provided `requirements.txt` file by run
 pip install -r requirements_AES.txt
 ```
 
-##Java Installation
+## Java Installation
 
 Java is required for certain components of the project. If you haven't already, download and install Java from the official website: [https://www.java.com/download/ie_manual.jsp].
 
@@ -44,6 +44,7 @@ Additionally, an executable installer is provided for Java. Download and run the
 1. Clone the repository to your local machine:
 ```bash
 git clone https://github.com/your_username/automatic-essay-scoring.git
+````
 
 2. Navigate to the project directory:
 ```bash
