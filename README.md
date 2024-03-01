@@ -15,6 +15,7 @@ The project directory contains the following files and folders:
 - `dataset_summary.xlsx`: Excel file providing an overview of the dataset.
 - `project_description.pdf`: PDF document describing the project in detail.
 - `insights_and_examples`: Folder containing insights and examples for training and validation data decomposition.
+- `dataset.xls`: Excel file containig our dataset.
 
 ## Requirements
 To run the project, you will need Python IDE, Anaconda installed on your system. Additionally, ensure that the following Python packages are installed:
